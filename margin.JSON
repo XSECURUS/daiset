@@ -1,7 +1,7 @@
 {   
-    "sellprice": 1.0000,
-    "high": 1.0000,
-    "low": 0.9960,
+    "sellprice": 1.0005,
+    "high": 1.0005,
+    "low": 0.2960,
     
     "reinvest": true,
     "withdraw": false
