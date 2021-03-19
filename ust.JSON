@@ -1,6 +1,6 @@
 {   
-    "sellprice": 1.0000,
-    "high": 1.0000,
+    "sellprice": 0.9999,
+    "high": 0.9999,
     "low": 0.9995,
     
     "reinvest": true,
